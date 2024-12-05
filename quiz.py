@@ -19,6 +19,20 @@ if answer.lower() == "ramdom access memory":
     print("Correct!")   
     score +=1
 
+answer = input("What does RAM stand for? ")
+if answer.lower() == "ramdom access memory":
+    print("Correct!")   
+    score +=1
+
+
+
+
+
+
+
+
+
+
 else:
     print("Sorry, you're wrong!")
 
